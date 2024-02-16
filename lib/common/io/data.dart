@@ -90,7 +90,7 @@ class Api{
         "id" : 114,
         "first_name" : "Ben",
         "last_name": "Angel",
-        "designation": "Human Resouces",
+        "designation": "Human Resources",
         "level": 1,
         "productivity_score": 69.0,
         "current_salary": "100,000",

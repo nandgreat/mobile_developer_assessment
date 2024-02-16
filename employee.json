@@ -1,0 +1,10 @@
+{
+  "id" : 66,
+  "first_name" : "Jonathan",
+  "last_name": "Strange",
+  "designation": "Custoner Relations",
+  "level": 1,
+  "productivity_score": 78.0,
+  "current_salary": "100,000",
+  "employment_status": 1
+}

@@ -50,7 +50,6 @@ class CustomTextField extends StatelessWidget {
               enabled: !isDisabled,
               obscureText: isPassword,
               validator: validator,
-              onSaved: onSaved!,
               onChanged: onChanged,
               style: const TextStyle(color: Colors.black, fontSize: 14),
               cursorColor: Theme.of(context).highlightColor,
